@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Pokémon Fetcher** is a React application that fetches data for the first 150 Pokémon from the PokeAPI and displays them as styled cards on a webpage. Each card showcases the Pokémon's name, image, and type, providing an engaging visual representation of the beloved Pokémon characters. This project utilizes React's hooks for managing state and effects, along with Tailwind CSS for styling.
+The **Pokémon Fetcher** is a React application that fetches data for the first 150 Pokémon from the PokeAPI and displays them as styled cards on a webpage. Each card showcases the Pokémon's name, image, and type, providing an engaging visual representation of the beloved Pokémon characters. 
 
 ## Features
 
